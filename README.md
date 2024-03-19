@@ -13,14 +13,6 @@ Unafraid of changes nor challenges and with everything yet to give 💪🏼 I'm 
 
 ##
 
-### My links
-
-- <a href="https://www.linkedin.com/in/JGerFuentes" target="_blank"><img width="110" height="35" src="https://i.imgur.com/ZPBNQmf.png" title="LI/JGerFuentes"/></a>
-
-- <a href="" target="_blank"><img width="35" height="30" src="https://i.imgur.com/1j2BH5n.png" title="HT/JGerFuentes"/></a>
-
-##
-
 ### My current PERN Stack weapons 🪓🧔🏽🛡
 - <img width="35" height="30" src="https://i.imgur.com/waXSNHF.png" title="js_logo" alt="js_logo" />
 - <img width="45" height="40" src="https://i.imgur.com/y6flhRy.png" title="html_logo" alt="html_logo" />
@@ -35,4 +27,14 @@ Unafraid of changes nor challenges and with everything yet to give 💪🏼 I'm 
 
 ##
 
-### Please, don't hesitate to contact me! See you soon!
+### My links
+
+- <a href="https://www.linkedin.com/in/JGerFuentes" target="_blank"><img width="110" height="35" src="https://i.imgur.com/ZPBNQmf.png" title="LI/JGerFuentes"/></a>
+
+- <a href="" target="_blank"><img width="35" height="30" src="https://i.imgur.com/1j2BH5n.png" title="HT/JGerFuentes"/></a>
+
+## 
+
+### Please, don't hesitate to contact me! 
+### See you soon!
+### JGerFuentes
