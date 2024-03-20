@@ -63,6 +63,8 @@
 
 [![JGerFuentes's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGerFuentes&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGerFuentes&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 ## Contact me
