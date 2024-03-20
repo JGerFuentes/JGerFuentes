@@ -69,6 +69,14 @@
 
 ## Contact me
 
+### <p align="center"><b> If you think that I can add some value to your work team or if you're interested in getting in touch with me to find together a solution to the digital problems or concerns of your company or venture, don't hesitate to reach me at:</b></p>
+<br/>
+
+<p align="center"> <a href="jger_fuentes@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Outlook-jger__fuentes@outlook.com-blue?style=flat-square&logo=MicrosoftOutlook" title="E-Mail/JGerFuentes"/></a>
+</p>
+
+<br/>
+
 <table align="center">
     <tr align="center">
         <td colspan="2" align="center">
@@ -86,12 +94,6 @@
 </table>
 
 <br/>
-
-### <p align="center"><b> If you think that I can add some value to your work team or if you're interested in getting in touch with me to find together a solution to the digital problems or concerns of your company or venture, don't hesitate to reach me at:</b></p>
-<br/>
-
-<p align="center"> <a href="jger_fuentes@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Outlook-jger__fuentes@outlook.com-blue?style=flat-square&logo=MicrosoftOutlook" title="E-Mail/JGerFuentes"/></a>
-</p>
 
 ### See you soon!
 ### JGerFuentes
