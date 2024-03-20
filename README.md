@@ -59,6 +59,14 @@ Unafraid of changes nor challenges and with everything yet to give 💪🏼 I'm 
 
 ##
 
+## My Stats
+
+[![JGerFuentes's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGerFuentes)](https://github.com/anuraghazra/github-readme-stats) 
+
+##
+
+## Contact me
+
 <table align="center">
     <tr>
         <th colspan="2" align="center">
