@@ -61,7 +61,7 @@
 
 ## My Stats
 
-[![JGerFuentes's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGerFuentes&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![JGerFuentes's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGerFuentes&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br/>
 
