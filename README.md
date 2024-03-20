@@ -10,7 +10,7 @@
 
 <br/>
 
-## About Me
+## About Me 📖
 
 #### <p align="center">Passionate recently graduated <strong><em>Biotechnology Technician</strong></em> 🧬, currently an <b><em>Operator on a Wastewater Treatment Plant</b></em>, I'm a newly formed <em>Full Stack Web Developer</em> who aims to reach top level coding practices to make people's web interaction experience a richer, more productive, more intuitive and more comfortable one. 🚀
 
@@ -59,7 +59,7 @@
 
 <br/>
 
-## My Stats
+## My Stats 📊
 
 [![JGerFuentes's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGerFuentes&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
 
@@ -67,7 +67,7 @@
 
 <br/>
 
-## Contact me
+## Contact me 📲😁📭
 
 ### <p align="center"><b> If you think that I can add some value to your work team or if you're interested in getting in touch with me to find together a solution to the digital problems or concerns of your company or venture, don't hesitate to reach me at:</b></p>
 <br/>
