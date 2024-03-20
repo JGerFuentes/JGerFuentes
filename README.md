@@ -6,7 +6,7 @@
 
 
 
-<h2 align="center"><strong> 💻 Jr. Full Stack Web Developer 👨🏻‍💻 </strong></h2>
+<h2 align="center"><strong> 💻 Full Stack Web Developer 👨🏻‍💻 </strong></h2>
 
 <br/>
 
