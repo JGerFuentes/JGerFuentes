@@ -60,17 +60,19 @@ Unafraid of changes nor challenges and with everything yet to give 💪🏼 I'm 
 ##
 
 <table align="center">
-    <th align="center">
+    <tr>
+        <th colspan="2" align="center">
             My links
-    </th>
-        <tr align="center">
-            <td align="left">
-                <a href="https://www.linkedin.com/in/JGerFuentes" target="_blank"><img width="110" height="30" src="https://i.imgur.com/ZPBNQmf.png" title="LI/JGerFuentes"/></a>
-            </td>
-            <td align="right">
-                <a href="" target="_blank"><img width="150" height="23" src="https://imgur.com/2xQJqZA.png" title="HT/JGerFuentes"/></a>
-            </td>
-        </tr>
+        </th>
+    </tr>
+    <tr align="center">
+        <td align="left">
+            <a href="https://www.linkedin.com/in/JGerFuentes" target="_blank"><img width="110" height="30" src="https://i.imgur.com/ZPBNQmf.png" title="LI/JGerFuentes"/>
+        </td>
+        <td align="right">
+            <a href="" target="_blank"><img width="150" height="23" src="https://imgur.com/2xQJqZA.png" title="HT/JGerFuentes"/>
+        </td>
+    </tr>
 </table>
 
 
