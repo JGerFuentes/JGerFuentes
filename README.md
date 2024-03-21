@@ -21,18 +21,6 @@
 <br/>
 
 ## My current PERN Stack weapons 🪓🧔🏽🛡
-<!-- - <img width="35" height="30" src="https://i.imgur.com/waXSNHF.png" title="js_logo" alt="js_logo" />
-- <img width="45" height="40" src="https://i.imgur.com/y6flhRy.png" title="html_logo" alt="html_logo" />
-- <img width="34" height="40" src="https://i.imgur.com/0kSPhDm.png" title="css_logo" alt="css_logo" />
-- <img width="45" height="30" src="https://i.imgur.com/wLyjRAI.png" title="sass_logo" alt="sass_logo" />
-- <img width="33" height="30" src="https://i.imgur.com/qZGgdmv.png" title="react_logo" alt="react_logo" />
-- <img width="100" height="30" src="https://i.imgur.com/4j4J7sL.png" title="redux_logo" alt="redux_logo" />
-- <img width="95" height="50" src="https://i.imgur.com/acLgwdD.png" title="nodejs_logo" alt="nodejs_logo" />
-- <img width="100" height="35" src="https://i.imgur.com/LcWGWHX.png" title="express_logo" alt="express_logo" />
-- <img width="100" height="35" src="https://imgur.com/kMRrUbX.png" title="sequelize_logo" alt="sequelize_logo" />
-- <img width="100" height="50" src="https://i.imgur.com/yNGQH6S.png" title="postgres_logo" alt="postgres_logo" /> -->
-
-
 - P : ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-363838?style=for-the-badge&logo=POSTGRESQL)
 
 - E : ![EXPRESS](https://img.shields.io/badge/-EXPRESS-363838?style=for-the-badge&logo=EXPRESS)
@@ -62,10 +50,10 @@
 ## My Stats 📊
 
 <p align="center">
-    <a href="https://github.com/JGerFuentes" border="1px solid color:white">
-        <img height="180em" src="https://streak-stats.demolab.com/?user=JgerFuentes&theme=react&hide_border=false&border_radius=0.5em"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JGerFuentes&show_icons=true&count_private=true&hide_border=false&border_radius=0.5em&theme=react&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGerFuentes&hide_border=false&border_radius=0.5em&layout=compact&theme=react&hide=jupyter%20notebook"/>
+    <a href="https://github.com/JGerFuentes" >
+        <img height="160em" src="https://streak-stats.demolab.com/?user=JgerFuentes&theme=react&hide_border=false&border_radius=0.5em"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JGerFuentes&show_icons=true&count_private=true&hide_border=false&border_radius=0.5em&theme=react&include_all_commits=true&count_private=true"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGerFuentes&hide_border=false&border_radius=0.5em&layout=compact&theme=react"/>
     </a>
 </p>
 
