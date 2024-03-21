@@ -61,9 +61,13 @@
 
 ## My Stats 📊
 
-[![JGerFuentes's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGerFuentes&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGerFuentes&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <a href="https://github.com/JGerFuentes" border="1px solid color:white">
+        <img height="180em" src="https://streak-stats.demolab.com/?user=JgerFuentes&theme=react&hide_border=false&border_radius=0.5em"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JGerFuentes&show_icons=true&count_private=true&hide_border=false&border_radius=0.5em&theme=react&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGerFuentes&hide_border=false&border_radius=0.5em&layout=compact&theme=react&hide=jupyter%20notebook"/>
+    </a>
+</p>
 
 <br/>
 
