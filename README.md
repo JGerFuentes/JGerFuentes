@@ -33,29 +33,29 @@
 - <img width="100" height="50" src="https://i.imgur.com/yNGQH6S.png" title="postgres_logo" alt="postgres_logo" /> -->
 
 
-- P : ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-9c9fa0?style=for-the-badge&logo=POSTGRESQL)
+- P : ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-363838?style=for-the-badge&logo=POSTGRESQL)
 
-- E : ![EXPRESS](https://img.shields.io/badge/-EXPRESS-9c9fa0?style=for-the-badge&logo=EXPRESS)
+- E : ![EXPRESS](https://img.shields.io/badge/-EXPRESS-363838?style=for-the-badge&logo=EXPRESS)
 
-- R : ![REACT](https://img.shields.io/badge/-REACT-9c9fa0?style=for-the-badge&logo=REACT)
+- R : ![REACT](https://img.shields.io/badge/-REACT-363838?style=for-the-badge&logo=REACT)
 
-- N : ![NODE.JS](https://img.shields.io/badge/-NODE.JS-9c9fa0?style=for-the-badge&logo=NODE.JS)
+- N : ![NODE.JS](https://img.shields.io/badge/-NODE.JS-363838?style=for-the-badge&logo=NODE.JS)
 
-- ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-9c9fa0?style=for-the-badge&logo=JAVASCRIPT)
+- ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-363838?style=for-the-badge&logo=JAVASCRIPT)
 
-- ![HTML5](https://img.shields.io/badge/-html5-9c9fa0?style=for-the-badge&logo=html5)
+- ![HTML5](https://img.shields.io/badge/-html5-363838?style=for-the-badge&logo=html5)
 
-- ![CSS3](https://img.shields.io/badge/-CSS3-9c9fa0?style=for-the-badge&logo=CSS3)
+- ![CSS3](https://img.shields.io/badge/-CSS3-363838?style=for-the-badge&logo=CSS3)
 
-- ![SASS](https://img.shields.io/badge/-SASS-9c9fa0?style=for-the-badge&logo=SASS)
+- ![SASS](https://img.shields.io/badge/-SASS-363838?style=for-the-badge&logo=SASS)
 
-- ![REDUX](https://img.shields.io/badge/-REDUX-9c9fa0?style=for-the-badge&logo=REDUX)
+- ![REDUX](https://img.shields.io/badge/-REDUX-363838?style=for-the-badge&logo=REDUX)
 
-- ![SEQUELIZE](https://img.shields.io/badge/-SEQUELIZE-9c9fa0?style=for-the-badge&logo=SEQUELIZE)
+- ![SEQUELIZE](https://img.shields.io/badge/-SEQUELIZE-363838?style=for-the-badge&logo=SEQUELIZE)
 
-- ![NODEMAILER](https://img.shields.io/badge/-NODEMAILER-9c9fa0?style=for-the-badge&logo=NODEMAILER)
+- ![NODEMAILER](https://img.shields.io/badge/-NODEMAILER-363838?style=for-the-badge&logo=NODEMAILER)
 
-- ![CLOUDINARY](https://img.shields.io/badge/-CLOUDINARY-9c9fa0?style=for-the-badge&logo=CLOUDINARY)
+- ![CLOUDINARY](https://img.shields.io/badge/-CLOUDINARY-363838?style=for-the-badge&logo=CLOUDINARY)
 
 <br/>
 
