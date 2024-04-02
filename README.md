@@ -12,7 +12,7 @@
 
 ## About Me 📖
 
-#### <p align="center">Passionate recently graduated <strong><em>Biotechnology Technician</strong></em> 🧬, currently an <b><em>Operator on a Wastewater Treatment Plant</b></em>, I'm a newly formed <em>Full Stack Web Developer</em> who aims to reach top level coding practices to make people's web interaction experience a richer, more productive, more intuitive and more comfortable one. 🚀
+#### <p align="center">Passionate <strong><em>Biotechnology Technician</strong></em> 🧬, currently an <b><em>Operator on a Wastewater Treatment Plant</b></em>, I'm a newly formed <em>Full Stack Web Developer</em> who aims to reach top level coding practices to make people's web interaction experience a richer, more productive, more intuitive and more comfortable one. 🚀
 
 #### <p align="center">Unafraid of changes nor challenges and with everything yet to give 💪🏼 I'm on a personal quest to give my family and <i>-hopefully-</i> the world a whole better life by committing my <b><i>passion for learning</b></i>, my <b><i>never-ending curiosity</b></i>, my <b><i>humble experience</b></i> and my <b><i>hard work</b></i> to help build the new world that's ahead of us. 🌌</p>
 
@@ -80,7 +80,12 @@
             <a href="https://www.linkedin.com/in/JGerFuentes" target="_blank"><img width="110" height="30" src="https://i.imgur.com/ZPBNQmf.png" title="LI/JGerFuentes"/>
         </td>
         <td align="right">
-            <a href="" target="_blank"><img width="150" height="23" src="https://imgur.com/2xQJqZA.png" title="HT/JGerFuentes"/>
+            <a href="https://www.talent.soyhenry.com/candidate/18224" target="_blank"><img width="150" height="23" src="https://imgur.com/2xQJqZA.png" title="HT/JGerFuentes"/>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+                <a href="https://www.f6s.com/member/jose-german-fuentes?follow=1" target="_blank" title="F6S"><img src="https://www.f6s.com/images/f6s-follow-secondary.png" border="0" width="86" height="30" alt="Follow me on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a>
         </td>
     </tr>
 </table>
