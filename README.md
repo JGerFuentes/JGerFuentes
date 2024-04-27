@@ -12,11 +12,11 @@
 
 ## About Me 📖
 
-#### <p align="center">Passionate <strong><em>Biotechnology Technician</strong></em> 🧬, currently an <b><em>Operator on a Wastewater Treatment Plant</b></em>, I'm a newly formed <em>Full Stack Web Developer</em> who aims to reach top level coding practices to make people's web interaction experience a richer, more productive, more intuitive and more comfortable one. 🚀
+#### <p align="center"><strong><em>Junior Full Stack Web Developer</em></strong> and former <strong><em>Biotechnology Technician</em></strong>, I aim to reach top level coding practices to make people's web interaction experience a richer, more productive, more intuitive and more comfortable one. 🚀
 
-#### <p align="center">Unafraid of changes nor challenges and with everything yet to give 💪🏼 I'm on a personal quest to give my family and <i>-hopefully-</i> the world a whole better life by committing my <b><i>passion for learning</b></i>, my <b><i>never-ending curiosity</b></i>, my <b><i>humble experience</b></i> and my <b><i>hard work</b></i> to help build the new world that's ahead of us. 🌌</p>
+#### <p align="center">Unafraid of changes nor challenges and with everything yet to give, 💪🏼 I'm on a personal quest to achieve a better life by committing my <b><i>passion for learning</b></i>, my <b><i>endless curiosity</b></i>, my <b><i>humble experience</b></i> and my <b><i>hard work</b></i> to find a solution to whichever coding problem may arise on the horizon.</p> 
 
-<p align="center"><b>You're more than welcome to join me on this journey in which you shall witness the miracle of learning, commitment, persistence and collaborative work fusing into some pretty mesmerizing results and adventures.</b></p>
+<p align="center"><b>You're more than welcome to join me on this journey in which you shall witness the miracle of learning, commitment, persistence and collaborative work fusing into some pretty mesmerizing results and adventures...!!! Or maybe you can just come and see my work... I promise you I'll do my best 🤣</b></p>
 
 <br/>
 
@@ -41,7 +41,7 @@
 
 - ![SEQUELIZE](https://img.shields.io/badge/-SEQUELIZE-363838?style=for-the-badge&logo=SEQUELIZE)
 
-- ![NODEMAILER](https://img.shields.io/badge/-NODEMAILER-363838?style=for-the-badge&logo=NODEMAILER)
+- ![JEST](https://img.shields.io/badge/-JEST-363838?style=for-the-badge&logo=JEST)
 
 - ![CLOUDINARY](https://img.shields.io/badge/-CLOUDINARY-363838?style=for-the-badge&logo=CLOUDINARY)
 
@@ -77,15 +77,18 @@
     </tr>
     <tr align="center">
         <td align="left">
-            <a href="https://www.linkedin.com/in/JGerFuentes" target="_blank"><img width="110" height="30" src="https://i.imgur.com/ZPBNQmf.png" title="LI/JGerFuentes"/>
+            <a href="https://www.linkedin.com/in/JGerFuentes" target="_blank" title="LinkedIn"><img src="https://i.imgur.com/ZPBNQmf.png" alt="LI/JGerFuentes" width="110" height="30"/>
         </td>
         <td align="right">
-            <a href="https://www.talent.soyhenry.com/candidate/18224" target="_blank"><img width="150" height="23" src="https://imgur.com/2xQJqZA.png" title="HT/JGerFuentes"/>
+            <a href="https://www.talent.soyhenry.com/candidate/18224" target="_blank" title="HenryTalent"><img src="https://imgur.com/2xQJqZA.png" alt="HT/JGerFuentes" width="150" height="23"/>
         </td>
     </tr>
-    <tr>
-        <td colspan="2" align="center">
-                <a href="https://www.f6s.com/member/jose-german-fuentes?follow=1" target="_blank" title="F6S"><img src="https://www.f6s.com/images/f6s-follow-secondary.png" border="0" width="86" height="30" alt="Follow me on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a>
+    <tr align="center">
+        <td align="center">
+                <a href="https://www.f6s.com/member/jose-german-fuentes?follow=1" target="_blank" title="F6S"><img src="https://www.f6s.com/images/f6s-follow-secondary.png" border="0" width="86" height="30" alt="Follow me on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;"/></a>
+        </td>
+        <td align="center">
+            <a href="https://rok.co/@jgerfuentes" target="_blank" title="RemoteOK"><img src="https://i.imgur.com/BLo0Rdp.jpg" alt="ROK/JGerFuentes" width="89" height="19"/></a>
         </td>
     </tr>
 </table>
