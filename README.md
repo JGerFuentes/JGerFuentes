@@ -12,7 +12,7 @@
 
 ## About Me 📖
 
-#### <p align="center"><strong><em>Junior Full Stack Web Developer</em></strong> and former <strong><em>Biotechnology Technician</em></strong>, I aim to reach top level coding practices to make people's web interaction experience a richer, more productive, more intuitive and more comfortable one. 🚀
+#### <p align="center"><strong><em>Junior Full Stack Web Developer</em></strong> and <strong><em>Biotechnology Technician</em></strong>, I aim to reach top level coding practices to make people's web interaction experience a richer, more productive, more intuitive and more comfortable one. 🚀
 
 #### <p align="center">Unafraid of changes nor challenges and with everything yet to give, 💪🏼 I'm on a personal quest to achieve a better life by committing my <b><i>passion for learning</b></i>, my <b><i>endless curiosity</b></i>, my <b><i>humble experience</b></i> and my <b><i>hard work</b></i> to find a solution to whichever coding problem may arise on the horizon.</p> 
 
