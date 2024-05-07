@@ -51,9 +51,9 @@
 
 <p align="center">
     <a href="https://github.com/JGerFuentes" >
-        <img height="160em" src="https://streak-stats.demolab.com/?user=JgerFuentes&theme=react&hide_border=false&border_radius=0.5em"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JGerFuentes&show_icons=true&count_private=true&hide_border=false&border_radius=0.5em&theme=react&include_all_commits=true&count_private=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGerFuentes&hide_border=false&border_radius=0.5em&layout=compact&theme=react"/>
+<!--         <img height="160em" src="https://streak-stats.demolab.com/?user=JgerFuentes&theme=react&hide_border=false&border_radius=0.5em"/> -->
     </a>
 </p>
 
