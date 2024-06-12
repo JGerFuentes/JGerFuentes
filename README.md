@@ -2,7 +2,9 @@
 
 <h2 align="center"> A.K.A. <strong><em>JGerFuentes</em></strong> 🤘🏼 </h2>
 
-<img src="https://imgur.com/wbC5qJW.png" ><img/>
+<div align="center">
+    <img src="https://res.cloudinary.com/dgfnyw7u9/image/upload/v1718175124/coding_tree_1_r0irs8.jpg" width="950px" height=auto><img/>
+</div>
 
 
 
