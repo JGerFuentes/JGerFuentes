@@ -78,12 +78,12 @@
         </td>
     </tr>
     <tr align="center">
-        <td align="left">
+        <td colspan="2" align="center">
             <a href="https://www.linkedin.com/in/JGerFuentes" target="_blank" title="LinkedIn"><img src="https://i.imgur.com/ZPBNQmf.png" alt="LI/JGerFuentes" width="110" height="30"/>
         </td>
-        <td align="right">
+<!--         <td align="right">
             <a href="https://www.talent.soyhenry.com/candidate/18224" target="_blank" title="HenryTalent"><img src="https://imgur.com/2xQJqZA.png" alt="HT/JGerFuentes" width="150" height="23"/>
-        </td>
+        </td> -->
     </tr>
     <tr align="center">
         <td align="center">
