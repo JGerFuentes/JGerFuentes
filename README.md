@@ -22,7 +22,7 @@
 
 <br/>
 
-## My current PERN Stack weapons 🪓🧔🏽🛡
+## My current weapons 🪓🧔🏽🛡
 - P : ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-363838?style=for-the-badge&logo=POSTGRESQL)
 
 - E : ![EXPRESS](https://img.shields.io/badge/-EXPRESS-363838?style=for-the-badge&logo=EXPRESS)
@@ -32,6 +32,10 @@
 - N : ![NODE.JS](https://img.shields.io/badge/-NODE.JS-363838?style=for-the-badge&logo=NODE.JS)
 
 - ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-363838?style=for-the-badge&logo=JAVASCRIPT)
+
+- ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-363838?style=for-the-badge&logo=TYPESCRIPT)
+
+- ![C](https://img.shields.io/badge/-C-363838?style=for-the-badge&logo=C)
 
 - ![HTML5](https://img.shields.io/badge/-html5-363838?style=for-the-badge&logo=html5)
 
@@ -44,6 +48,8 @@
 - ![SEQUELIZE](https://img.shields.io/badge/-SEQUELIZE-363838?style=for-the-badge&logo=SEQUELIZE)
 
 - ![JEST](https://img.shields.io/badge/-JEST-363838?style=for-the-badge&logo=JEST)
+
+- ![POSTMAN](https://img.shields.io/badge/-POSTMAN-363838?style=for-the-badge&logo=POSTMAN)
 
 - ![CLOUDINARY](https://img.shields.io/badge/-CLOUDINARY-363838?style=for-the-badge&logo=CLOUDINARY)
 
