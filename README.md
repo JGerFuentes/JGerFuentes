@@ -1,9 +1,9 @@
-<h1 align="center" > 👋🏼 Hi! My name's <strong>José Germán Fuentes</strong> <strong>(a.k.a. <em>JGF</em></strong> 🤘🏼) <h1>
+<h1 align="center" > 👋🏼 Hi! My name's <strong>José Germán Fuentes</strong> 🤘🏼 <h1>
 
-<h2 align="center"><strong> 🔐 Cybersecurity Analyst | Full Stack Dev Background | Risk & Compliance | Bilingual (ES/EN) </strong></h2>
+<h2 align="center"><strong> 🔐 Cybersecurity Analyst | Full Stack Dev Background | Risk Mitigation & Compliance | Bilingual (ES/EN) </strong></h2>
 
 <div align="center">
-    <img src="https://res.cloudinary.com/dgfnyw7u9/image/upload/c_fill,g_auto,h_400,w_970/b_rgb:000000,e_gradient_fade,y_-0.15/c_scale,co_rgb:ffffff,fl_relative/v1745994776/Banner_Cybersecurity_yconhx.png" />
+    <img src="https://res.cloudinary.com/dgfnyw7u9/image/upload/c_fill,g_auto,h_370,w_970/b_rgb:000000,e_gradient_fade,y_-0.15/c_scale,co_rgb:ffffff,fl_relative/v1745994776/Banner_Cybersecurity_yconhx.png" />
 </div>
 
 ## About Me 📖
